@@ -1,0 +1,49 @@
+,dia,hora,temperatura,nubosidad,precipitacion,viento
+0,"viernes, 14 de enero",17:00,30°,Mayormente soleado,2%,SO 13 km/h
+1,"viernes, 14 de enero",18:00,30°,Parcialmente nublado,1%,SO 16 km/h
+2,"viernes, 14 de enero",19:00,29°,Parcialmente nublado,1%,SO 18 km/h
+3,"viernes, 14 de enero",20:00,26°,Parcialmente nublado,1%,SSO 22 km/h
+4,"viernes, 14 de enero",21:00,25°,Muy nublado,0%,S 17 km/h
+5,"viernes, 14 de enero",22:00,23°,Muy nublado,1%,SSE 14 km/h
+6,"viernes, 14 de enero",23:00,22°,Muy nublado,1%,SSE 13 km/h
+7,"sábado, 15 de enero",0:00,20°,Muy nublado,1%,SSE 12 km/h
+8,"sábado, 15 de enero",1:00,19°,Muy nublado,1%,SSE 12 km/h
+9,"sábado, 15 de enero",2:00,19°,Muy nublado,3%,SSE 10 km/h
+10,"sábado, 15 de enero",3:00,18°,Muy nublado,4%,SSE 9 km/h
+11,"sábado, 15 de enero",4:00,17°,Muy nublado,4%,SSE 8 km/h
+12,"sábado, 15 de enero",5:00,17°,Muy nublado,4%,SSE 7 km/h
+13,"sábado, 15 de enero",6:00,17°,Muy nublado,5%,SSE 7 km/h
+14,"sábado, 15 de enero",7:00,16°,Muy nublado,5%,SSE 5 km/h
+15,"sábado, 15 de enero",8:00,17°,Muy nublado,4%,SSE 6 km/h
+16,"sábado, 15 de enero",9:00,18°,Muy nublado,6%,S 7 km/h
+17,"sábado, 15 de enero",10:00,20°,Muy nublado,5%,SSO 8 km/h
+18,"sábado, 15 de enero",11:00,21°,Muy nublado,4%,SSO 10 km/h
+19,"sábado, 15 de enero",12:00,23°,Parcialmente nublado,8%,S 14 km/h
+20,"sábado, 15 de enero",13:00,25°,Parcialmente nublado,8%,SSO 17 km/h
+21,"sábado, 15 de enero",14:00,26°,Parcialmente nublado,8%,SSO 18 km/h
+22,"sábado, 15 de enero",15:00,27°,Parcialmente nublado,10%,SSO 20 km/h
+23,"sábado, 15 de enero",16:00,28°,Parcialmente nublado,10%,SO 23 km/h
+24,"sábado, 15 de enero",17:00,27°,Parcialmente nublado,10%,SO 24 km/h
+25,"sábado, 15 de enero",18:00,27°,Parcialmente nublado,8%,SO 24 km/h
+26,"sábado, 15 de enero",19:00,25°,Parcialmente nublado,9%,SSO 24 km/h
+27,"sábado, 15 de enero",20:00,23°,Mayormente soleado,9%,SSO 22 km/h
+28,"sábado, 15 de enero",21:00,21°,Mayormente despejado,6%,SSO 18 km/h
+29,"sábado, 15 de enero",22:00,20°,Mayormente despejado,9%,S 15 km/h
+30,"sábado, 15 de enero",23:00,19°,Mayormente despejado,10%,SSE 14 km/h
+31,"domingo, 16 de enero",0:00,18°,Mayormente despejado,10%,SSE 12 km/h
+32,"domingo, 16 de enero",1:00,17°,Mayormente despejado,11%,SSE 12 km/h
+33,"domingo, 16 de enero",2:00,16°,Mayormente despejado,13%,SSE 10 km/h
+34,"domingo, 16 de enero",3:00,16°,Parcialmente nublado,8%,SSE 9 km/h
+35,"domingo, 16 de enero",4:00,16°,Parcialmente nublado,8%,SSE 8 km/h
+36,"domingo, 16 de enero",5:00,15°,Parcialmente nublado,9%,S 8 km/h
+37,"domingo, 16 de enero",6:00,15°,Parcialmente nublado,21%,S 8 km/h
+38,"domingo, 16 de enero",7:00,14°,Parcialmente nublado,24%,S 7 km/h
+39,"domingo, 16 de enero",8:00,15°,Chubascos,35%,S 7 km/h
+40,"domingo, 16 de enero",9:00,16°,Chubascos,35%,SSO 8 km/h
+41,"domingo, 16 de enero",10:00,17°,Parcialmente nublado,24%,S 8 km/h
+42,"domingo, 16 de enero",11:00,19°,Parcialmente nublado,24%,SSO 10 km/h
+43,"domingo, 16 de enero",12:00,20°,Tormentas eléctricas aisladas,34%,S 13 km/h
+44,"domingo, 16 de enero",13:00,22°,Tormentas eléctricas aisladas,31%,S 15 km/h
+45,"domingo, 16 de enero",14:00,23°,Mayormente soleado,24%,S 17 km/h
+46,"domingo, 16 de enero",15:00,24°,Chubascos,35%,SSO 19 km/h
+47,"domingo, 16 de enero",16:00,24°,Chubascos,44%,SO 21 km/h
